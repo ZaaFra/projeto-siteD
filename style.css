@@ -61,21 +61,21 @@ h3 {
   gap: 20px; 
 }
 footer {
-  text-align: center; /* Centraliza o conteúdo do footer */
+  text-align: center; 
   padding-bottom: 48px;
 }
 
 footer p {
-  display: inline-block; /* Garante que o parágrafo se comporte como um bloco inline */
-  font-size: 18px; /* Ajuste o tamanho da fonte conforme necessário */
+  display: inline-block; 
+  font-size: 18px; 
 }
 
 footer .figura {
-  width: 20px; /* Ajuste o tamanho da figurinha */
-  height: auto; /* Mantém a proporção da imagem */
-  vertical-align: middle; /* Alinha a imagem verticalmente ao meio do texto */
-  margin-left: 5px; /* Espaço à esquerda da imagem */
-  margin-right: 5px; /* Espaço à direita da imagem */
+  width: 10px; 
+  height: auto; 
+  vertical-align: middle; 
+  margin-left: 5px; 
+  margin-right: 5px; 
 }
 
 ol {
