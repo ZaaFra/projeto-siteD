@@ -52,19 +52,36 @@ h2 {
   font-size: 32px;
   color: #1B1B1B;
 }
+h3 {
+  font-size: 28px;
+}
 #content-destinos {
   display: flex;
   flex-direction: column; 
   gap: 20px; 
 }
+footer {
+  vertical-align: middle;
+  text-align: center;
+  padding-bottom: 48px;
+}
+footer img {
+  width: 20px;    /* Ajuste o tamanho da figurinha */
+  height: auto;   /* Mantém a proporção da imagem */
+  vertical-align: middle; /* Alinha a imagem verticalmente ao meio do texto */
+  margin-left: 5px;  /* Espaço à esquerda da imagem */
+  margin-right: 5px; /* Espaço à direita da imagem */
+}
 
 ol {
   padding-left: 0; 
   margin-bottom:  40px; 
+  
 }
 
 ol li {
   margin-bottom: 10px; 
+  
 }
 
 #marg{
